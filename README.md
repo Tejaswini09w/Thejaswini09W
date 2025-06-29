@@ -44,12 +44,5 @@ Currently sharpening skills in:
 
 ---
 
-## 📫 Let's Connect
-
-- 🌐 **[Portfolio Website](#)** *(Add your link here)*  
-- 🔗 **[LinkedIn](#)** *(Add your profile link here)*  
-
----
-
 > ✨ “Data is a story waiting to be told. My mission is to help organizations understand it better.”
 
